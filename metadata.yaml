@@ -1,11 +1,16 @@
 _repo: In-the-Earth-s-Shadow_64803
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64803-h/images/cover.jpg
 creator:
   author:
     agent_name: Chapman, John L.
     gutenberg_agent_id: '53059'
     url: http://www.gutenberg.org/2009/agents/53059
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64803#In-the-Earth-s-Shadow
 gutenberg_issued: '2021-03-13'
 gutenberg_type: Text
 identifiers:
